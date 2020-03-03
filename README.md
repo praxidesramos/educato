@@ -1,2 +1,2 @@
 # educato
-Sistema web de evaluación continua
+Sistema web de Administracion de Datos de Estudiantes 
